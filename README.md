@@ -1,5 +1,5 @@
 # 💫 About Me:
-Blockchain Developer <br>  Solidity smart contract builder <br>  MERN Stack Developer 
+MERN Stack Blockchain Developer <br>  Solidity smart contract builder <br> 
 
 
 ## 🌐 Socials:
