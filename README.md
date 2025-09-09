@@ -1,6 +1,15 @@
 # 💫 About Me:
-MERN Stack <br><i>- Blockchain Developer</i> <br> <i>- Solidity smart contract builder </i><br> 
 
+I am a full-stack blockchain dapp developer on any EVM-compatible chain, writing efficient smart contracts ranging from basic ERC standards to high-level protocols that utilize vaults, liquidity pool interactions, and upgradeable smart contracts involving any upgradeability pattern. I also implement gasless transaction standards for an improved user experience and multi-signature wallets like Gnosis protocols for better security.
+
+Additionally, I am an intermediate-level smart contract auditor, using both manual techniques and automated tools.
+
+Tools and languages I use widely:
+- Language: Solidity
+- Testing: Hardhat and Foundry (mostly Foundry)
+- Tools: VS Code, Git, Slither, Aderyn
+- Libraries: Ethers.js and Web3.js (depending on the use case)
+- Wallets: Multisigs, Custodial, and Non-Custodial
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ ahmad-faraz-67a9bb278) 
