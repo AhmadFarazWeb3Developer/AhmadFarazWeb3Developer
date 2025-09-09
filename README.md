@@ -2,7 +2,7 @@
 
 I am a full-stack blockchain dapp developer on any EVM-compatible chain, writing efficient smart contracts ranging from basic ERC standards to high-level protocols that utilize vaults, liquidity pool interactions, and upgradeable smart contracts involving any upgradeability pattern. I also implement gasless transaction standards for an improved user experience and multi-signature wallets like Gnosis protocols for better security.
 
-Additionally, I am an intermediate-level smart contract auditor, using both manual techniques and automated tools.
+Additionally, I am smart contract auditor, using both manual techniques and automated tools.
 
 Tools and languages I use widely:
 - Language: Solidity
