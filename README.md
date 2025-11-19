@@ -62,7 +62,9 @@ Tools and languages I use widely:
   <img src="https://cryptologos.cc/logos/polygon-matic-logo.png?v=032" alt="Polygon zkEVM" width="40" />
 
   <!-- Vanar -->
-  <img src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/zksync/info/logo.png" width="40" />
+
+  <img src="https://raw.githubusercontent.com/vanarchain/assets/main/logo/vanar-icon.png" width="40" />
+
 
 </p>
 
