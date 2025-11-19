@@ -42,8 +42,7 @@ Tools and languages I use widely:
   <!-- Base -->
   <img src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/info/logo.png" width="40" />
   
-  <!-- zkEVM (Polygon) -->
-  <img src="https://cryptologos.cc/logos/polygon-matic-logo.png?v=032" alt="Polygon zkEVM" width="40" />
+
 
  
 
