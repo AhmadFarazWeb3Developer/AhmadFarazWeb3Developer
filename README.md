@@ -16,6 +16,58 @@ Tools and languages I use widely:
 - Libraries: Ethers.js and Web3.js (depending on the use case)
 - Wallets: Multisigs, Custodial, and Non-Custodial
 
+## 🌐 EVM Chains I Work With
+<p align="left">
+  <!-- Ethereum -->
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=032" alt="Ethereum" width="40" />
+
+  <!-- Polygon -->
+  <img src="https://cryptologos.cc/logos/polygon-matic-logo.png?v=032" alt="Polygon" width="40" />
+
+  <!-- BNB Chain -->
+  <img src="https://cryptologos.cc/logos/bnb-bnb-logo.png?v=032" alt="BNB" width="40" />
+
+  <!-- Avalanche -->
+  <img src="https://cryptologos.cc/logos/avalanche-avax-logo.png?v=032" alt="Avalanche" width="40" />
+
+  <!-- Arbitrum -->
+  <img src="https://cryptologos.cc/logos/arbitrum-arb-logo.png?v=032" alt="Arbitrum" width="40" />
+
+  <!-- Optimism -->
+  <img src="https://cryptologos.cc/logos/optimism-ethereum-op-logo.png?v=032" alt="Optimism" width="40" />
+
+  <!-- zkSync -->
+  <img src="https://cryptologos.cc/logos/zksync-zks-logo.png?v=032" alt="zkSync" width="40" />
+
+  <!-- Base -->
+  <img src="https://cryptologos.cc/logos/base-base-logo.png?v=032" alt="Base" width="40" />
+
+  <!-- Fantom -->
+  <img src="https://cryptologos.cc/logos/fantom-ftm-logo.png?v=032" alt="Fantom" width="40" />
+
+  <!-- Cronos -->
+  <img src="https://cryptologos.cc/logos/cronos-cro-logo.png?v=032" alt="Cronos" width="40" />
+
+  <!-- Harmony -->
+  <img src="https://cryptologos.cc/logos/harmony-one-logo.png?v=032" alt="Harmony" width="40" />
+
+  <!-- Gnosis -->
+  <img src="https://cryptologos.cc/logos/gnosis-gno-logo.png?v=032" alt="Gnosis" width="40" />
+
+  <!-- Kava -->
+  <img src="https://cryptologos.cc/logos/kava-kava-logo.png?v=032" alt="Kava" width="40" />
+
+
+  <!-- zkEVM (Polygon) -->
+  <img src="https://cryptologos.cc/logos/polygon-matic-logo.png?v=032" alt="Polygon zkEVM" width="40" />
+
+  <!-- Vanar -->
+  <img src="https://raw.githubusercontent.com/vanarchain/assets/main/logo/vanar-icon.png" alt="Vanar" width="40" />
+</p>
+
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ ahmad-faraz-67a9bb278) 
 
