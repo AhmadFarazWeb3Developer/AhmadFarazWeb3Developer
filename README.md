@@ -37,10 +37,10 @@ Tools and languages I use widely:
   <img src="https://cryptologos.cc/logos/optimism-ethereum-op-logo.png?v=032" alt="Optimism" width="40" />
 
   <!-- zkSync -->
-  <img src="https://cryptologos.cc/logos/zksync-zks-logo.png?v=032" alt="zkSync" width="40" />
+<img src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/zksync/info/logo.png" width="40" />
 
   <!-- Base -->
-  <img src="https://cryptologos.cc/logos/base-base-logo.png?v=032" alt="Base" width="40" />
+<img src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/info/logo.png" width="40" />
 
   <!-- Fantom -->
   <img src="https://cryptologos.cc/logos/fantom-ftm-logo.png?v=032" alt="Fantom" width="40" />
@@ -62,7 +62,8 @@ Tools and languages I use widely:
   <img src="https://cryptologos.cc/logos/polygon-matic-logo.png?v=032" alt="Polygon zkEVM" width="40" />
 
   <!-- Vanar -->
-  <img src="https://raw.githubusercontent.com/vanarchain/assets/main/logo/vanar-icon.png" alt="Vanar" width="40" />
+  <img src="https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/zksync/info/logo.png" width="40" />
+
 </p>
 
 
